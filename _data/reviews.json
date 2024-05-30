@@ -1,0 +1,41 @@
+[{
+    "id": "r1",
+    "title": "Excellent Full Stack Program",
+    "text": "The Full Stack program at Devworks Bootcamp was fantastic! The curriculum was comprehensive, and the instructors were very knowledgeable.",
+    "rating": 9,
+    "bootcamp": "7di8ijs09sijs9ss9hj8s",
+    "user": "9sdj8js9w0e8js8s9du8"
+},
+{
+    "id": "r2",
+    "title": "Great Job Assistance",
+    "text": "CodeMaster Academy provided excellent job assistance. I landed a job within a month of graduation!",
+    "rating": 8.5,
+    "bootcamp": "8hsj9s9s0dj9as8j9s9hd",
+    "user": "9sd9w9d8sd7e8js7s8sj"
+},
+{
+    "id": "r3",
+    "title": "Intensive and Rewarding",
+    "text": "TechPro Bootcamp's program was intensive but very rewarding. I learned so much and felt prepared for my new career.",
+    "rating": 8,
+    "bootcamp": "7sjd8js7d9js9w8s7djs8",
+    "user": "8shd8js9s0d8js9s7d8w"
+},
+{
+    "id": "r4",
+    "title": "Excellent Curriculum",
+    "text": "The curriculum at CodeWave Institute was top-notch. It covered everything I needed to know to start my career in tech.",
+    "rating": 9.5,
+    "bootcamp": "9sjs8js9w8s7d9js8d7js",
+    "user": "7sjd9sd7s8d9js9s8d7h"
+},
+{
+    "id": "r5",
+    "title": "Supportive Community",
+    "text": "NextGen Coders Bootcamp had a very supportive community. The instructors and fellow students were always willing to help.",
+    "rating": 9.8,
+    "bootcamp": "8sjd7d9s8js7d8js9s8j8",
+    "user": "8sjd9s7d8js9w7d9s8sj"
+}
+]

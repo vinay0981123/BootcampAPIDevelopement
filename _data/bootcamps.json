@@ -1,0 +1,94 @@
+[
+    {
+        "name": "CodeMaster Academc",
+        "description": "CodeMaster Academy offers intensive coding bootcamps in Los Angeles, focusing on the skills needed to thrive as a software engineer.",
+        "website": "http://codemasteracademy.com",
+        "phone": "98786654433",
+        "email": "info@s.com",
+        "address": "Los Angeles, CA 90001",
+        "location": {
+            "type": "Point",
+            "coordinates": [-118.2437, 34.0522]
+        },
+        "careers": ["Web Development", "Data Science"],
+        "housing": true,
+        "jobGuarantee": true,
+        "acceptGi": true
+    }
+    ,
+    {
+        "_id": "5d713hu87iu99878u11",
+        "user": "7d9sjls9woisu09suv",
+        "name": "TechPro Bootcamp",
+        "description": "TechPro Bootcamp in New York City offers specialized training in front-end and back-end development, preparing students for high-demand tech jobs.",
+        "website": "techprobootcamp.com",
+        "phone": "98787764522",
+        "email": "contact@techprobootcamp.com",
+        "address": "New York, NY 10001",
+        "careers": "Front-end Development, Back-end Development, Cybersecurity",
+        "housing": "available",
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": false
+    },
+    {
+        "_id": "5d713hu87iu99878u12",
+        "user": "7d9sjls9woisu09suw",
+        "name": "CodeWave Institute",
+        "description": "CodeWave Institute in San Francisco provides comprehensive bootcamp programs focusing on full stack development and mobile app development.",
+        "website": "codewaveinstitute.com",
+        "phone": "98787767890",
+        "email": "admissions@codewaveinstitute.com",
+        "address": "San Francisco, CA 94103",
+        "careers": "Full Stack Development, Mobile App Development, Data Analytics",
+        "housing": "not available",
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    },
+    {
+        "_id": "5d713hu87iu99878u13",
+        "user": "7d9sjls9woisu09sux",
+        "name": "NextGen Coders Bootcamp",
+        "description": "NextGen Coders Bootcamp in Austin offers rigorous training in web development and UX/UI design, ensuring students are job-ready.",
+        "website": "nextgencoders.com",
+        "phone": "98787761234",
+        "email": "info@nextgencoders.com",
+        "address": "Austin, TX 78701",
+        "careers": "Web Development, UX/UI Design, Product Management",
+        "housing": "available",
+        "jobAssistance": true,
+        "jobGuarantee": true,
+        "acceptGi": true
+    },
+    {
+        "_id": "5d713hu87iu99878u14",
+        "user": "7d9sjls9woisu09suy",
+        "name": "Innovate Tech Academy",
+        "description": "Innovate Tech Academy in Seattle offers immersive programs in software engineering and AI, preparing students for cutting-edge tech careers.",
+        "website": "innovatetechacademy.com",
+        "phone": "98787765555",
+        "email": "admissions@innovatetechacademy.com",
+        "address": "Seattle, WA 98101",
+        "careers": "Software Engineering, Artificial Intelligence, Data Science",
+        "housing": "not available",
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": false
+    }
+    
+    ,{
+    "_id":"5d713hu87iu99878u09",
+    "user":"7d9sjls9woisu09sus",
+    "name":"Devworks Bootcamp",
+    "description":"Devworks is a full stack js Bootcamp located in the heart of Boston that focuses on tech you need to get a high paying job as a web dev.",
+    "website":"explorecode098.com",
+    "phone":"98787768778",
+    "email":"explorecode098@gmail.com",
+    "address":"Noida sector 93",
+    "careers":"Web Dev, Automation, Data Science",
+    "housing":"xxxxxxx",
+    "jobAssistance":true,
+    "jobGuarantee":false,
+    "acceptGi":true
+}]

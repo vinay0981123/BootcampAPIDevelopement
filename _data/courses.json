@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "course1",
+        "title": "Full Stack Web Development",
+        "description": "An intensive program covering front-end and back-end development, preparing students for a career in web development.",
+        "weeks": 12,
+        "tuition": 12000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "7di8ijs09sijs9ss9hj8s",
+        "user": "9sdj8js9w0e8js8s9du8"
+    },
+    {
+        "_id": "course2",
+        "title": "Data Science Bootcamp",
+        "description": "A comprehensive course teaching data analysis, machine learning, and statistical modeling.",
+        "weeks": 14,
+        "tuition": 14000,
+        "minimumSkill": "intermediate",
+        "scholarshipsAvailable": true,
+        "bootcamp": "8hsj9s9s0dj9as8j9s9hd",
+        "user": "9sd9w9d8sd7e8js7s8sj"
+    },
+    {
+        "_id": "course3",
+        "title": "Cybersecurity Program",
+        "description": "An in-depth course focusing on network security, ethical hacking, and information security management.",
+        "weeks": 10,
+        "tuition": 10000,
+        "minimumSkill": "advanced",
+        "scholarshipsAvailable": false,
+        "bootcamp": "7sjd8js7d9js9w8s7djs8",
+        "user": "8shd8js9s0d8js9s7d8w"
+    },
+    {
+        "_id": "course4",
+        "title": "Mobile App Development",
+        "description": "A specialized course in creating mobile applications for Android and iOS platforms.",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "9sjs8js9w8s7d9js8d7js",
+        "user": "7sjd9sd7s8d9js9s8d7h"
+    },
+    {
+        "_id": "course5",
+        "title": "AI and Machine Learning",
+        "description": "An advanced program covering artificial intelligence concepts and machine learning algorithms.",
+        "weeks": 16,
+        "tuition": 16000,
+        "minimumSkill": "advanced",
+        "scholarshipsAvailable": false,
+        "bootcamp": "8sjd7d9s8js7d8js9s8j8",
+        "user": "8sjd9s7d8js9w7d9s8sj"
+    }
+    
+]
